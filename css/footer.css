@@ -1,0 +1,178 @@
+.content .fact {
+  height: 100px;
+  display: flex;
+}
+
+
+
+
+
+.main.jsx-2730001128 {
+  color: #E6F0FD;
+  background-color: #F2F4F7;
+}
+
+.shortcuts.jsx-2730001128 {
+  background: #194185;
+  color: white;
+}
+
+.infos.jsx-2730001128 {
+  border-top: solid 2px #e0e1e5;
+}
+.main.jsx-3087876521 {
+  max-width: 1224px;
+  margin: auto;
+  padding: 9px 12px;
+  overflow: hidden;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+.list.jsx-3087876521 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 700px) {
+  .list.jsx-3087876521 {
+    margin: 0 -12px;
+  }
+}
+
+@media (min-width: 701px) {
+  .list.jsx-3087876521 {
+    margin: 0 -24px;
+  }
+}
+
+@media (max-width: 700px) {
+  .item.jsx-3087876521 {
+    padding: 9px 12px;
+  }
+}
+
+@media (min-width: 701px) {
+  .item.jsx-3087876521 {
+    padding: 9px 24px;
+  }
+}
+
+.item.active.jsx-3087876521 {
+  color: white;
+}
+
+.item.jsx-3087876521 a.jsx-3087876521 {
+  display: block;
+}
+
+.item.jsx-3087876521 a.jsx-3087876521:hover {
+  color: white;
+}
+
+.main.jsx-127126660 {
+  max-width: 1224px;
+  margin: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 700px) {
+  .main.jsx-127126660 {
+    padding: 9px 0;
+  }
+}
+
+@media (min-width: 701px) {
+  .main.jsx-127126660 {
+    padding: 18px 0;
+  }
+}
+
+.item.jsx-127126660 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+@media (max-width: 700px) {
+  .item.jsx-127126660 {
+    padding: 9px 12px;
+  }
+}
+
+@media (min-width: 701px) {
+  .item.jsx-127126660 {
+    padding: 18px 12px;
+  }
+}
+.main.jsx-121732950 {
+  line-height: 24px;
+}
+
+.heading.jsx-121732950 {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.heading.active.jsx-121732950 {
+  color: #dee8e3;
+}
+
+.list.jsx-121732950 {
+  margin-top: 12px;
+}
+
+.item.jsx-121732950 a.jsx-121732950 {
+  display: inline-block;
+}
+
+.item.jsx-121732950 a.jsx-121732950:hover {
+  color: #0c1f6b;
+}
+
+.item.jsx-121732950 svg {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3px;
+}
+
+.dark .item.jsx-121732950 svg path {
+  fill: #0b123f;
+}
+.main.jsx-445989696 {
+  max-width: 1224px;
+  margin: auto;
+  padding: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  color: #0c1934;
+  font-size: 11px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.item.jsx-445989696 {
+  padding: 6px 12px;
+}
